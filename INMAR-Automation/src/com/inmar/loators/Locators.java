@@ -28,8 +28,6 @@ public enum Locators {
 	ENTER_SUM_TEXT_BOX("humanCheckCaptchaInput"),
 	;
 	
-	
-
 	String locator,dataValue;
 
 	private Locators(String locator) {
